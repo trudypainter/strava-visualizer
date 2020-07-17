@@ -2,7 +2,7 @@
 1. gathers a Strava user's routes
 2. downloads a gpx file of the route (latitude/longitude coordinates)
 3. downloads images of the coordinates from Google Streetivew Static API
-4. Stitches videos together to make a timelapse of the route (and cleans up leftover downloaded files afterwards)
+4. stitches videos together to make a timelapse of the route (and cleans up leftover downloaded files afterwards)
 
 i did this for fun💫
 
